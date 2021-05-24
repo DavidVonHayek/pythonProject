@@ -16,3 +16,4 @@ if prvni_pismeno_dne == tip_prvniho_pismena:
 else:
   print("Špatný tip prvního písmene")
 print("tohle je rychlá změna kódu")
+# opet jen ke sledovani zmeny
